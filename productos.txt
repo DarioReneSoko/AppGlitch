@@ -1,0 +1,1 @@
+[{"name":"Manzana","price":120,"type":"Verde","id":1},{"name":"Manzana","price":150,"type":"Roja","id":2},{"name":"Naranja","price":100,"type":"NA","id":3},{"name":"Banana","price":200,"type":"Ecuador","id":4}]
