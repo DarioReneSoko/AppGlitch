@@ -8,7 +8,7 @@ const app = new express();
 const productos = new contenedor("./productos.txt");
 const port = 3000;
 
-app.get("/",(req,res)=>res.send("Api Alejandro Bongioanni"));
+app.get("/",(req,res)=>res.send("Api Dario Soko con mucha ayuda!!!!"));
 
 app.route("/productos").get((req, res) => {
   productos.getAll()
